@@ -48,8 +48,8 @@ jobs:
         dotnet restore app\app.csproj
         msbuild /t:Pack /p:Configuration=Debug  app\app.csproj
     
-    #- name: Copy
-    #  run: copy app/app/bin/Debug/*.nupkg .
+    - name: Copy
+      run: copy app/app/bin/Debug/*.nupkg .
     
     # - name: PushNuget
     #   run: dotnet nuget push *.nupkg --source https://api.nuget.org/v3/index.json --api-key ${{ secrets.PUBLISH_TO_NUGET_ORG }} --skip-duplicate

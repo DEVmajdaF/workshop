@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\youcode\\Desktop\\workshop\\app\\app\\app.csproj": {}
+    "C:\\Users\\youcode\\Desktop\\workshop\\app\\app.csproj": {}
   },
   "projects": {
-    "C:\\Users\\youcode\\Desktop\\workshop\\app\\app\\app.csproj": {
+    "C:\\Users\\youcode\\Desktop\\workshop\\app\\app.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\youcode\\Desktop\\workshop\\app\\app\\app.csproj",
+        "projectUniqueName": "C:\\Users\\youcode\\Desktop\\workshop\\app\\app.csproj",
         "projectName": "app",
-        "projectPath": "C:\\Users\\youcode\\Desktop\\workshop\\app\\app\\app.csproj",
+        "projectPath": "C:\\Users\\youcode\\Desktop\\workshop\\app\\app.csproj",
         "packagesPath": "C:\\Users\\youcode\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\youcode\\Desktop\\workshop\\app\\app\\obj\\",
+        "outputPath": "C:\\Users\\youcode\\Desktop\\workshop\\app\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
